@@ -42,5 +42,4 @@ Thumbs.db
 
 .serverless
 
-devlog/
-dev/
+legacy/
